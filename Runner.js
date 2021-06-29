@@ -27,5 +27,4 @@ Before(async(scenario) =>{
 
 After(async() => {
     await global.page.close();
-    //global.context.close();
 });
