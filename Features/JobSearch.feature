@@ -10,4 +10,4 @@ Feature:Job search
 
       Examples:
         |Job Titles   |EmailID          |Pass    |
-        |QA Automation|ad05464@gmail.com|8Nov1994|
+        |QA Automation|example@gmail.com|password|
